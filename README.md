@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @FurkanKayalik
+- 👀 I’m interested in Embedded system and Microcontrollers
+- 🌱 I’m currently learning Python, C and C++
+- 📫 How to reach me : Reach me on my instagram page furkankayalik
